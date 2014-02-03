@@ -1,0 +1,3 @@
+# archetyp[![Build Status](https://secure.travis-ci.org/simonfan/archetyp.png?branch=master)](http://travis-ci.org/simonfan/archetyp)
+
+Some module...
